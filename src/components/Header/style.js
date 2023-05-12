@@ -8,7 +8,7 @@ export const Container = styled.div`
     padding-bottom: 20px;
     padding-right: 20px;
     padding-left: 20px;
-    width: 1360px;
+    width: 1300px;
     background-color: #366907;
 `;
 
