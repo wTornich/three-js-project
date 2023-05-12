@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 export const Body = styled.div`
     height: 1400px;
-    width: 1460px;
+    width: 1340px;
     background-color: #448409; 
     box-shadow: 0px 0px 39px -8px rgba(5,56,0,1);
 `;
