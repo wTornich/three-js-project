@@ -10,4 +10,4 @@ Este é um projeto de estudo da disciplina de Computação Gráfica. O projeto r
 
 **Para o 3D:** React Three Fiber e 
 
-[![Legenda](https://github.com/wTornich/three-js-project/blob/main/imgs/ver_aplicacao.png?raw=true)(https://three-js-project-three.vercel.app)]
+[![]([url da img](https://github.com/wTornich/three-js-project/blob/main/imgs/ver_aplicacao.png?raw=true))]([url para a pagina](https://three-js-project-three.vercel.app))]
