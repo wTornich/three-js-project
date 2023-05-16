@@ -8,6 +8,6 @@ Este é um projeto de estudo da disciplina de Computação Gráfica. O projeto r
 
 ## Tecnologias
 
-**Para o 3D:** React Three Fiber e Drei
+A base do projeto foi desenvolvida em ReactJS utilizando as blibl React Three Fiber e Drei.
 
 [![Ver Aplicação](https://github.com/wTornich/three-js-project/blob/main/imgs/ver_aplicacao.png?raw=true)](https://three-js-project-three.vercel.app)
